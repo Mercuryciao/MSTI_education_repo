@@ -1,4 +1,4 @@
-# T-mobile apprenticeship: Skill Sphere MR
+# T-Mobile apprenticeship: Skill Sphere MR
 Unity Version: 2022.3.17f1 (Intel)
 Packages: Meta XR All-in-One SDK, Meta XR Interaction SDK with OVR Integration, Meta XR Interaction SDK with OVR Samples
 
