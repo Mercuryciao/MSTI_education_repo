@@ -1,4 +1,4 @@
-# Skill Sphere MR
+# T-mobile apprenticeship: Skill Sphere MR
 Unity Version: 2022.3.17f1 (Intel)
 Packages: Meta XR All-in-One SDK, Meta XR Interaction SDK with OVR Integration, Meta XR Interaction SDK with OVR Samples
 
@@ -40,5 +40,5 @@ An MR application that trains field technicians for better efficiency, providing
 
 ## Prototype - Live Demo
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7186861319315230720" height="732" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+**T-Mobile Tech Experience:** https://www.linkedin.com/feed/update/urn:li:activity:7186861801874112513/
+**Reasearch and development process:** https://www.youtube.com/watch?v=jut2lsw0Kwo
